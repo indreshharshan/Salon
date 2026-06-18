@@ -1,8 +1,4 @@
-# ✂️ Trimly - Beauty Service Booking Platform
-
-<p align="center">
-  <b>A complete full-stack beauty service marketplace connecting users, service providers, and administrators in one seamless platform.</b>
-</p>
+<img width="1983" height="793" alt="ChatGPT Image Jun 18, 2026, 10_56_22 AM" src="https://github.com/user-attachments/assets/47e1cbca-16d0-4e21-abfd-7fcf87aa0c4c" />
 
 ---
 
