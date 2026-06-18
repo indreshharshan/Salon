@@ -148,6 +148,7 @@ Trimly
 
 <img width="1337" height="613" alt="Screenshot 2026-06-18 104151" src="https://github.com/user-attachments/assets/e02a685b-3aa7-46ec-9ff1-5f889d06c354" />
 
+<img width="1189" height="629" alt="Screenshot 2026-06-18 104224" src="https://github.com/user-attachments/assets/d899dc3f-1bce-4722-bc17-2fe37f37ed79" />
 
 ---
 
